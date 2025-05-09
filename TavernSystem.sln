@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TavernSystem", "TavernSystem\TavernSystem.csproj", "{9E0B5C9C-E85B-4EF6-855E-46CA7764E6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TavernSystem.Application", "TavernSystem.Application\TavernSystem.Application.csproj", "{EBD46D94-ACB2-4497-B860-A09A672986A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TavernSystem.Models", "TavernSystem.Models\TavernSystem.Models.csproj", "{C882657B-DECB-4FC7-A646-7F74ED3559D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E0B5C9C-E85B-4EF6-855E-46CA7764E6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E0B5C9C-E85B-4EF6-855E-46CA7764E6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E0B5C9C-E85B-4EF6-855E-46CA7764E6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E0B5C9C-E85B-4EF6-855E-46CA7764E6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBD46D94-ACB2-4497-B860-A09A672986A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD46D94-ACB2-4497-B860-A09A672986A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD46D94-ACB2-4497-B860-A09A672986A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD46D94-ACB2-4497-B860-A09A672986A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C882657B-DECB-4FC7-A646-7F74ED3559D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C882657B-DECB-4FC7-A646-7F74ED3559D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C882657B-DECB-4FC7-A646-7F74ED3559D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C882657B-DECB-4FC7-A646-7F74ED3559D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
